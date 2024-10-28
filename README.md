@@ -9,7 +9,7 @@
 - 💬 Ask me about
 - - 🐧 Linux
 - -  💻 Computer Science
-- - 🌐 Network Administration**
+- - 🌐 Network Administration
 
 - 📫 How to reach me **davidpadilla242424@gmail.com**
 
