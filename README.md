@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I’m currently working as IT Technician **
+- 🌱 I’m currently working as IT Technician on Skylife Engineering 
 
 - 💬 Ask me about
 - - 🐧 Linux
-- -  Windows
+- -    Windows
 - -  💻 Computer Science
 - - 🌐 Network Administration
 
