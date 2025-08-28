@@ -4,10 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **Linux,HTML,XML,CCNA 1 ...**
+- 🌱 I’m currently working as IT Technician **
 
 - 💬 Ask me about
 - - 🐧 Linux
+- -  Windows
 - -  💻 Computer Science
 - - 🌐 Network Administration
 
